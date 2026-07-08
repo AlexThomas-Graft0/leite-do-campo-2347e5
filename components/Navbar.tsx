@@ -8,7 +8,7 @@ export function Navbar() {
       <div className="font-serif text-2xl font-bold text-[#5D4432]">Leite Do Campo</div>
       <div className="flex gap-6 text-sm font-bold text-[#3E2B1E]">
         <a href="#how-it-works">How It Works</a>
-        <a href="#about-us">Our Mission</a>
+        <a href="#about-us">Our Network</a>
         <a href="#contact-section" className="bg-[#5D4432] text-white px-6 py-2 rounded-full">Partner With Us</a>
       </div>
     </nav>

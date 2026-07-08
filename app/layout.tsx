@@ -17,8 +17,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: 'Leite Do Campo — Sustainable Dairy Partnerships',
-  description: 'We partner with local producers to collect fresh, pasture-raised milk. Join our circular glass bottle loop and help us build a sustainable local dairy network.',
+  title: 'Leite Do Campo — Sustainable Milk Collection Partnerships',
+  description: 'We partner with local dairy farms to collect high-quality, pasture-raised milk. Join our circular glass bottle network and help us build a sustainable local dairy infrastructure.',
 };
 
 export default function RootLayout({
