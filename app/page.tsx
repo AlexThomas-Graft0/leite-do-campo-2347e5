@@ -13,7 +13,7 @@ import { Footer } from "@/components/Footer";
 export default function Home() {
   return (
     <main className="min-h-screen">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Leite Do Campo\",\"description\":\"Leite Do Campo\",\"url\":\"https://leite-do-campo-2347e5.duckbyte.co\"}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"LocalBusiness\",\"name\":\"Leite Do Campo\",\"description\":\"Milk collection network for local producers.\",\"url\":\"https://leite-do-campo-2347e5.duckbyte.co\"}" }} />
       <Navbar />
       <section id="hero-section" className="scroll-mt-20">
         <Suspense fallback={<div className="min-h-[30vh]" />}>

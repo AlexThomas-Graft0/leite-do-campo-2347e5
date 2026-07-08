@@ -17,8 +17,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: 'Leite Do Campo — Leite Do Campo',
-  description: 'A cozy café-inspired experience blending warm tones, soft typography, and premium dairy crafts in a relaxed browsing environment.',
+  title: 'Leite Do Campo — Sustainable Dairy Partnerships',
+  description: 'We partner with local producers to collect fresh, pasture-raised milk. Join our circular glass bottle loop and help us build a sustainable local dairy network.',
 };
 
 export default function RootLayout({
